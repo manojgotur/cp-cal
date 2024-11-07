@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+ calculator()
+ {
 
   char op;
   double first, second;
@@ -27,5 +28,5 @@ int main() {
       printf("Error! operator is not correct");
   }
 
-  return 0;
+ // return 0;
 }
